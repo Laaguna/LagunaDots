@@ -1,0 +1,55 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR FZF_DEFAULT_OPTS:\x2d\x2dheight\x2040\x25
+SETUVAR FZF_DISABLE_KEYBINDINGS:0
+SETUVAR FZF_LEGACY_KEYBINDINGS:1
+SETUVAR FZF_PREVIEW_DIR_CMD:ls
+SETUVAR FZF_PREVIEW_FILE_CMD:head\x20\x2dn\x2010
+SETUVAR FZF_TMUX_HEIGHT:40\x25
+SETUVAR --export OPENAI_API_KEY:sk\x2dZS2jyRUKqFEvo1HEBuotT3BlbkFJsAqiBsrRFFOydM7VPXiP
+SETUVAR --export PROJECT_PATHS:/home/laguna/Documents/Github
+SETUVAR __fish_initialized:3400
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:\x7e/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_list\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejorgebucaran/nvm\x2efish
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_color_autosuggestion:727169
+SETUVAR fish_color_cancel:\x1d
+SETUVAR fish_color_command:7AA89F
+SETUVAR fish_color_comment:727169
+SETUVAR fish_color_cwd:\x1d
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:FF9E64
+SETUVAR fish_color_error:C34043
+SETUVAR fish_color_escape:D27E99
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:\x1d
+SETUVAR fish_color_host_remote:\x1d
+SETUVAR fish_color_keyword:D27E99
+SETUVAR fish_color_match:7cafc2
+SETUVAR fish_color_normal:DCD7BA
+SETUVAR fish_color_operator:76946A
+SETUVAR fish_color_option:\x1d
+SETUVAR fish_color_param:957FB8
+SETUVAR fish_color_quote:C0A36E
+SETUVAR fish_color_redirection:DCD7BA
+SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d2D4F67
+SETUVAR fish_color_selection:\x2d\x2dbackground\x3d2D4FG67
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:\x1d
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_background:\x1d
+SETUVAR fish_pager_color_completion:DCD7BA
+SETUVAR fish_pager_color_description:727269
+SETUVAR fish_pager_color_prefix:7AA89F
+SETUVAR fish_pager_color_progress:727169
+SETUVAR fish_pager_color_secondary_background:\x1d
+SETUVAR fish_pager_color_secondary_completion:\x1d
+SETUVAR fish_pager_color_secondary_description:\x1d
+SETUVAR fish_pager_color_secondary_prefix:\x1d
+SETUVAR fish_pager_color_selected_background:\x1d
+SETUVAR fish_pager_color_selected_completion:\x1d
+SETUVAR fish_pager_color_selected_description:\x1d
+SETUVAR fish_pager_color_selected_prefix:\x1d
+SETUVAR fish_user_paths:/home/alanbuscaglia/\x2elocal/share/bob/nvim\x2dbin\x1e/home/alanbuscaglia/\x2eyarn/bin\x1e/home/alanbuscaglia/\x2enix\x2dprofile/bin\x1e/nix/var/nix/profiles/default/bin\x1e/home/alanbuscaglia/go/bin\x1e/home/alanbuscaglia/go\x1e/home/alanbuscaglia/\x2ecargo/bin\x1e/usr/local/bin\x1e/opt/homebrew/bin
